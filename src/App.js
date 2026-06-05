@@ -7,6 +7,9 @@ import HelloProps2 from './components/HelloProps2';
 import StartProps from './components/StartProps';
 import Counter from './components/Counter';
 import InputSample from './components/InputSample';
+import InputSample2 from './components/InputSample2';
+import UserList from './components/user/UserList';
+import UserList2 from './components/user/UserList2';
 
 function App() {
   return (
@@ -42,6 +45,16 @@ function App() {
 
       <hr />
       <InputSample />
+
+      <hr />
+      <InputSample2 />
+
+      <hr />
+      <UserList />
+
+      <hr />
+      <UserList2 />
+
       <br />
       <br />
       <br />
